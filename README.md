@@ -1,10 +1,10 @@
 # Renegade Bug Bounty
 - **Until TVL exceeds $25M**
-    - Max Critical Payout: $100,000
-    - High Severity Payout: $20,000
+    - Max Critical Payout: $100,000 USDC
+    - High Severity Payout: $20,000 USDC
 - **After TVL exceeds $25M**
-    - Max Critical Payout: $250,000
-    - High Severity Payout: $20,000
+    - Max Critical Payout: $250,000 USDC
+    - High Severity Payout: $20,000 USDC
 
 
 ## Background on Renegade
