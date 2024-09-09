@@ -5,6 +5,7 @@
 - **After TVL exceeds $25M**
     - Max Critical Payout: $250,000 USDC
     - High Severity Payout: $20,000 USDC
+- [Read our Code4rena bug bounty guidelines for more details](https://docs.code4rena.com/awarding/judging-criteria/bounty-criteria)
 
 
 ## Background on Renegade
