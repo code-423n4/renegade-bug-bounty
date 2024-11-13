@@ -11,7 +11,7 @@
 ](https://docs.code4rena.com/awarding/judging-criteria/bounty-criteria)
 - [Judging for C4 Bug Bounties
 ](https://docs.code4rena.com/awarding/judging-criteria/bounty-judging)
-- [Template for C4 Repo Template](https://gist.github.com/sentinelxyz/070f3d63505072caedfb1666d3a32d02)
+
 
 
 ## Background on Renegade
