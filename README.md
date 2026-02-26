@@ -164,6 +164,11 @@ Sources found here: [Github](https://github.com/renegade-fi/renegade-contracts)
 
 # Additional Context
 ### Publicly Known Issues
+
+Bug reports covering previously-discovered bugs (listed below) are not eligible for a reward within this program. This includes known issues that the project is aware of but has consciously decided not to “fix”, necessary code changes, or any implemented operational mitigating procedures that can lessen potential risk. Every issue opened in the repo, closed PRs, previous contests and audits are out of scope.
+
+All issues submitted by wardens to the Renegade bounty will be added to [this repo](https://github.com/code-423n4/renegade-bug-bounty/issues?q=is%3Aissue%20state%3Aclosed) once they have been reviewed by the sponsors. These are considered known issues and are out-of-scope for bounty rewards.
+
 The following are publicly known issues that will not be considered valid findings, but may be helpful pointers as to where to look for vulnerabilities:
 
 - Users may avoid paying the relayer a fee if they are able to "self match" at a zero (or low) price — effectively a transfer to another wallet. This drains a balance in one wallet, and allows the user to abandon the wallet with its non-zero fees.
